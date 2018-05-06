@@ -7,3 +7,6 @@
 Githubすごい！！YAHOO！byHarakit
 
 test
+
+
+getElementByIdとか
